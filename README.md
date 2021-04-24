@@ -34,7 +34,7 @@ _**Language**_:-
 Download all the files And Import on Eclipse IDE and Run on Apache Tomcat  Server.
 
 
-OR 
+`OR `
 
 You can Download only Mail-wale.war file and directly import on Eclipse IDE and Run on Apache Tomcat Server. (Recommended)
 
