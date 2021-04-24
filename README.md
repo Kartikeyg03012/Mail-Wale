@@ -1,4 +1,4 @@
-# Mail-Wale
+# Project Name:- Mail-Wale
 
 # Role:-
 1. Maintain an understanding of current web technologies or programming practices through continuing education, reading.
@@ -12,8 +12,8 @@
 
 # Task:- Work On Admin Panel (Both FrontEnd And BackEnd)
 _**Language**_:-
-For FrontEnd--> HTML5, CSS, BootStrap, JavaScript, JSP, Jquery
-For BackEnd--> Java Servlet, Hibernate Framework
-DataBase--> MySQL
-Server--> Apache Tomcat
-Others--> Eclipse, Git, JUnit For Testing
+**For FrontEnd**--> HTML5, CSS, BootStrap, JavaScript, JSP, Jquery
+**For BackEnd**--> Java Servlet, Hibernate Framework
+**DataBase**--> MySQL
+**Server**--> Apache Tomcat
+**Others**--> Eclipse, Git, JUnit For Testing
