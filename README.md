@@ -13,7 +13,18 @@
 # Task:- Work On Admin Panel (Both FrontEnd And BackEnd)
 _**Language**_:-
 **For FrontEnd**--> HTML5, CSS, BootStrap, JavaScript, JSP, Jquery
+
+
+
 **For BackEnd**--> Java Servlet, Hibernate Framework
+
+
+
 **DataBase**--> MySQL
+
+
 **Server**--> Apache Tomcat
+
+
+
 **Others**--> Eclipse, Git, JUnit For Testing
